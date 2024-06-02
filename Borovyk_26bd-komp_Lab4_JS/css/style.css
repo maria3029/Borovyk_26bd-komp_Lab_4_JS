@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+.block {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
